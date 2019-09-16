@@ -6,9 +6,9 @@ A very simlpy boilerplate, that will help you jump straight into building react 
 2. Open in your preffered editor
 3. Edit name, description, keywords and auther in package.json
 4. Navigate to your content in a terminal
-(4a). Make sure you have node.js installed!
-5. Run "npm install"
-6. Run "npm start"
+5. (Optional) Make sure you have node.js installed!
+6. Run "npm install"
+7. Run "npm start"
 
 This should launch the website in your default browser.
 
